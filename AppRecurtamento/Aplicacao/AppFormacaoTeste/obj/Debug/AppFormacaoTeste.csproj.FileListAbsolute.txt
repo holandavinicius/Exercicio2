@@ -1,0 +1,53 @@
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csprojAssemblyReference.cache
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.FrmMain.resources
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.Properties.Resources.resources
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.GenerateResource.cache
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.CoreCompileInputs.cache
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe.config
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.pdb
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.exe
+C:\Users\luism\source\repos\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.pdb
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe.config
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.pdb
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csprojAssemblyReference.cache
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.FrmMain.resources
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.Properties.Resources.resources
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.GenerateResource.cache
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.CoreCompileInputs.cache
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.exe
+C:\Users\VSoft05\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.pdb
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.FrmMain.resources
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.exe
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.pdb
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe.config
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe
+C:\Users\Utilizador\Desktop\exercicios visionsoft\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.pdb
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe.config
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.pdb
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csprojAssemblyReference.cache
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.FrmMain.resources
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.Properties.Resources.resources
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.GenerateResource.cache
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.CoreCompileInputs.cache
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.exe
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.pdb
+C:\Users\luism\Desktop\c#\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.FrmDetalhe.resources
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe.config
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.exe
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\bin\Debug\AppFormacaoTeste.pdb
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csprojAssemblyReference.cache
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.FrmDetalhe.resources
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.FrmMain.resources
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.Properties.Resources.resources
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.GenerateResource.cache
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.csproj.CoreCompileInputs.cache
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.exe
+C:\Users\luism\Desktop\AppFormacao\AppFormacaoTeste\obj\Debug\AppFormacaoTeste.pdb

@@ -1,0 +1,45 @@
+Nesta aplicação, devem ser implementadas as seguintes funcionalidades:
+
+1 - Gestão de Produtos:
+	- Criar Produtos: Possibilidade de adicionar novos produtos ao sistema.
+	- Eliminar Produtos: Opção para remover produtos existentes.
+	- Alterar Produtos: Capacidade de alterar os dados dos produtos existentes.
+
+2 - Visualização de Produtos:
+	- Detalhes do Produto: Possibilidade de visualizar informações detalhadas de um produto específico.
+	- Visualização em Grelha: Opção para ver os dados dos produtos em formato de grelha.
+
+3 - Criar uma tabela para guardar os dados.
+
+PONTOS A FAZER no Formulario FrmMain:
+ 	1 - Quando a aplicação é aberta, deve de carregar os produtos na grelha 
+	2 - Programar o botão Novo:
+		-  Ao clicar no botão deve de abrir o formulário FrmDetalhe, depois de aberto o utilizador tem de preencher os campos e de conseguir criar um novo produto.
+	3 - Programar o botão Abrir:
+		- Ao clicar no botão tem de abrir o formulario FrmDetalhe com os dados do produto selecionado. 
+		- Tem de ser possível alterar os dados e guardá-los.
+	4 - Programar o botão Eliminar:
+		- Ao clicar no botão deve de eliminar o registo selecionado.
+
+PONTOS A FAZER no Formulario FrmDetalhe:
+        1 - Adicionar os inputs que estão em falta.
+	2 - Com base nos dados preenchidos, guardar os dados na base de dados:
+		- Após guardar, limpar os inputs e fechar o formulário.
+		- Garantir que não há códigos de produtos repetidos.
+	3 - Programar o botão cancelar. Quando for clicado deve limpar os dados dos inputs e fechar o formulário.
+
+
+
+PONTOS A FAZER BASE DE DADOS: 
+	1 - Criar uma tabela com o nome tbProdutos. Tem de estrutura a tabela de forma a que possa receber os dados pretendidos.
+	2 - Caso necessário, pode criar novas tabelas.
+
+
+Software necessário: 
+	- Visual studio 2017 ou Visual Studio 2022. Pode ser descarregado gratuitamente na microsoft.
+	- Caso desejar, pode usar outro IDE que edite e compile C#.
+
+O ficheiro de base de dados está no projecto na pasta App_DATA.
+		 	
+
+	

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\Desktop\\VisionSoft_Exercicios\\exercicio2\\AppRecurtamento\\Aplicacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48296899-2F43-42E6-9733-802E9579F559}|AppFormacaoTeste\\AppRecurtamentoTeste.csproj|c:\\users\\vinic\\desktop\\visionsoft_exercicios\\exercicio2\\apprecurtamento\\aplicacao\\appformacaoteste\\scripts\\sqlquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{48296899-2F43-42E6-9733-802E9579F559}|AppFormacaoTeste\\AppRecurtamentoTeste.csproj|solutionrelative:appformacaoteste\\scripts\\sqlquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48296899-2F43-42E6-9733-802E9579F559}|AppFormacaoTeste\\AppRecurtamentoTeste.csproj|c:\\users\\vinic\\desktop\\visionsoft_exercicios\\exercicio2\\apprecurtamento\\aplicacao\\appformacaoteste\\ado\\repositorioproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48296899-2F43-42E6-9733-802E9579F559}|AppFormacaoTeste\\AppRecurtamentoTeste.csproj|solutionrelative:appformacaoteste\\ado\\repositorioproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48296899-2F43-42E6-9733-802E9579F559}|AppFormacaoTeste\\AppRecurtamentoTeste.csproj|C:\\Users\\vinic\\Desktop\\VisionSoft_Exercicios\\exercicio2\\AppRecurtamento\\Aplicacao\\appformacaoteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48296899-2F43-42E6-9733-802E9579F559}|AppFormacaoTeste\\AppRecurtamentoTeste.csproj|solutionrelative:appformacaoteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48296899-2F43-42E6-9733-802E9579F559}|AppFormacaoTeste\\AppRecurtamentoTeste.csproj|c:\\users\\vinic\\desktop\\visionsoft_exercicios\\exercicio2\\apprecurtamento\\aplicacao\\appformacaoteste\\scripts\\sqlquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{48296899-2F43-42E6-9733-802E9579F559}|AppFormacaoTeste\\AppRecurtamentoTeste.csproj|solutionrelative:appformacaoteste\\scripts\\sqlquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery.sql ",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\VisionSoft_Exercicios\\exercicio2\\AppRecurtamento\\Aplicacao\\AppFormacaoTeste\\scripts\\SQLQuery.sql",
+              "RelativeDocumentMoniker": "AppFormacaoTeste\\scripts\\SQLQuery.sql",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\VisionSoft_Exercicios\\exercicio2\\AppRecurtamento\\Aplicacao\\AppFormacaoTeste\\scripts\\SQLQuery.sql",
+              "RelativeToolTip": "AppFormacaoTeste\\scripts\\SQLQuery.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-23T12:44:50.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositorioProduto.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\VisionSoft_Exercicios\\exercicio2\\AppRecurtamento\\Aplicacao\\AppFormacaoTeste\\ADO\\RepositorioProduto.cs",
+              "RelativeDocumentMoniker": "AppFormacaoTeste\\ADO\\RepositorioProduto.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\VisionSoft_Exercicios\\exercicio2\\AppRecurtamento\\Aplicacao\\AppFormacaoTeste\\ADO\\RepositorioProduto.cs",
+              "RelativeToolTip": "AppFormacaoTeste\\ADO\\RepositorioProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:27:26.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\VisionSoft_Exercicios\\exercicio2\\AppRecurtamento\\Aplicacao\\AppFormacaoTeste\\Program.cs",
+              "RelativeDocumentMoniker": "AppFormacaoTeste\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\VisionSoft_Exercicios\\exercicio2\\AppRecurtamento\\Aplicacao\\AppFormacaoTeste\\Program.cs",
+              "RelativeToolTip": "AppFormacaoTeste\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:10:19.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
